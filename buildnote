@@ -1,0 +1,10 @@
+#install.packages("BiocManager")
+#BiocManager::install("Rgraphviz")
+
+
+install anaconda and add to env path
+pip install scikit-survival
+
+install.packages("devtools")
+install.packages("penaltyLearning")
+devtools::install_github("anujkhare/iregnet")

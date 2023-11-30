@@ -1,5 +1,5 @@
 # ALS Survival Prediction
-This is a repository of the code used for the paper ["Accurate Personalized Survival Prediction for Amyotrophic Lateral Sclerosis Patients"](https://www.nature.com/articles/s41598-023-47935-7) by Kuan et al. We will upload the codebase once the paper is published. Note that the data will not be uploaded.
+This is a repository of the code used for the paper ["Accurate Personalized Survival Prediction for Amyotrophic Lateral Sclerosis Patients"](https://www.nature.com/articles/s41598-023-47935-7) by Kuan et al. Note that the data will not be uploaded.
 
 This repository is modified from [ISDEvaluation](https://github.com/haiderstats/ISDEvaluation) by Humza Haider.
 
